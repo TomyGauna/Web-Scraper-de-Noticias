@@ -91,7 +91,8 @@ En este modo podés:
 
 ## 📦 Exportar como `.exe`
 
-Podés crear un ejecutable con `pyinstaller` si querés usarlo sin tener Python instalado:
+Ya hay un `.exe` generado por si querés usar el scraper sin tener Python instalado.  
+Pero si querés modificar el código (mejorarlo, agregar soporte para otra página o simplemente romperlo), podés crear tu propio ejecutable así:
 
 ```bash
 pip install pyinstaller
@@ -109,9 +110,9 @@ Este desafío fue pensado para practicar Python de forma creativa y mostrarlo pr
 
 ---
 
-## Otros proyectos
+## 🧩 Otros proyectos
 
-Este es el proyecto del dia uno del desafio 20 Proyectos en 30 dias:
+Este es el proyecto del **Día 1** del desafío "20 Proyectos en 30 Días":
 
 - [Organizador de Archivos](https://github.com/TomyGauna/Organizador-Automatico-de-Archivos)
 
